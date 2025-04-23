@@ -1,0 +1,13 @@
+Body{ 
+    background-color: #3d7aca;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+p{font-style: :italic;
+    color: green;
+    border: 1px solid crimson;
+    }
